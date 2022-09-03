@@ -1,0 +1,3 @@
+export const CONTRACT_ADDRESS = "0x4df60a38D8c6b30bBaAA733Aa4DE1431bf9014f7";
+export const MAINNET_CHAIN_ID = 1;
+export const TESTNET_CHAIN_ID = 4;
